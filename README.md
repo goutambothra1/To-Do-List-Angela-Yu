@@ -4,7 +4,8 @@ This is a todo list project from Angela Yu's complete boot camp. Using EJS, expr
 The main objective was to create a user-friendly and efficient task management tool that helps users stay organized and focused on their daily tasks. With this project, I aimed to showcase my skills in backend development, particularly with Node.js and Express.js, while also adding a touch of dynamic front-end using EJS.
 # glitch server link
 https://cooperative-hip-source.glitch.me/
-if you want to host on your server.
+# when installing in your system
+Download the Zip file and extract it.
 then
 run these commands:
 1. npm i express ejs body-parser
